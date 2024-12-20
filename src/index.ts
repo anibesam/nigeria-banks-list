@@ -1,4 +1,4 @@
-import { Bank, banks } from "./lib/data";
+import { Bank, banks } from "./data";
 
 // -- Function to get all banks
 export const getBanks = (): Bank[] => {

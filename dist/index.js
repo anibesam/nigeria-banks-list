@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.findBankByCode = exports.getBanks = void 0;
-const data_1 = require("./lib/data");
+const data_1 = require("./data");
 // -- Function to get all banks
 const getBanks = () => {
     return data_1.banks;
