@@ -1,4 +1,4 @@
-import { getBanks, findBankByCode } from "../lib/index";
+import { getBanks, findBankByCode } from "../index";
 
 // Test getting all banks
 console.log(getBanks());
