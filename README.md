@@ -80,7 +80,7 @@ This will return the bank object for Access Bank or `undefined` if the code does
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AnibeSamuel/nigeria-banks-list.git
+git clone https://github.com/anibesam/nigeria-banks-list.git
 cd nigeria-banks-list
 ```
 
