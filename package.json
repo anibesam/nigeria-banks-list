@@ -2,7 +2,7 @@
     "name": "nigeria-banks-list",
     "version": "1.1.0",
     "description": "A comprehensive list of Nigerian banks, including commercial, microfinance, digital banks, and payment service providers.",
-    "main": "lib/index.js",
+    "main": "dist/lib/index.js",
     "scripts": {
       "test": "ts-node test/test.ts",
       "build": "tsc"
@@ -14,6 +14,11 @@
       "typescript": "^4.0.0",
       "ts-node": "^10.0.0"
     },
+    "files": [
+  "lib/**/*",
+  "README.md"
+],
+
     "dependencies": {}
   }
   
